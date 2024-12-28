@@ -8,7 +8,7 @@ table {
     table-layout: fixed;
     border-collapse: collapse;
     text-align: center;
-    border-width: 20px;
+    border-width: 50px;
 }
 table thead tr th {
     background-color: #3399ff;
